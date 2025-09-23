@@ -1,0 +1,7 @@
+# Ignore default names for colcon created folders
+build
+install
+log
+
+docker-compose.yml
+Dockerfile
